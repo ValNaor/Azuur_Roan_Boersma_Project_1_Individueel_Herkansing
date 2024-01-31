@@ -190,13 +190,13 @@ h2{
 
 #landingpage a:nth-child(2){
 
-    background-image: url(../../images/landingpage_doelen.jpg);
+    background-image: url(../../images/landingpage_doelen.JPG);
 
 }
 
 #landingpage a:nth-child(3){
 
-    background-image: url(../../images/samenwerking.jpg);
+    background-image: url(../../images/samenwerking.JPG);
 
 }
 
@@ -462,7 +462,7 @@ footer a{
     text-shadow: 0.5em 0.5em 1em #262626;
     padding-top: 1em;
     padding-bottom: 1em;
-    background-color: #467060;
+    background-color: #c49a6c;
     
 
 }
@@ -500,7 +500,7 @@ footer a{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-top: 1em;  ;
+    
     
 }
 
